@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">1° Encontro AgileSergile</string>
+    <string name="titulo">1° Encontro AgileSergipe é um evento oficial do Grupo de Usuários AgileSergipe com apoio da ScrumAlliance</string>
+    <string name="diaum">Dia 24/05: Oficina  Como avaliar a qualidade de um software através de maratonas de testes </string>
+    <string name="diadois">Dia 25/05 – Abertura/Palestras:\n
+    - Comunidade de Práticas em Testes: a experiência CESAR\n
+    - Muitos times, um único propósito: O poder transformacional da Agilidade em Escala.</string>
+    <string name="local">Universidade Tiradentes - Farolandia, Aracaju/SE</string>
+</resources>
